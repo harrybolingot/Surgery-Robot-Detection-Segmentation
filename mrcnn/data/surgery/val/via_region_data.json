@@ -1,0 +1,1 @@
+{"region":{"name":{"type":"radio","description":"","options":{"blue_peg":"","red_peg":"","yellow_peg":"","green_peg":"","left_ef":"","right_ef":""},"default_options":{"blue_peg":true}},"type":{"type":"dropdown","description":"","options":{"peg":"","endeffector":""},"default_options":{"peg":true}}},"file":{}}
